@@ -1,3 +1,23 @@
+## v1.21.1 (2025-06-24)
+
+### Fix
+
+- add missing theme name to supported_flavors list
+
+## v1.21.0 (2025-06-23)
+
+### Feat
+
+- Add rocm-ls project
+- correct project name
+- Add hipcim and rocm-ls theme
+
+## v1.20.1 (2025-06-09)
+
+### Fix
+
+- Pin pydata-sphinx-theme ver to fix sidebar
+
 ## v1.20.0 (2025-05-30)
 
 ### Feat
